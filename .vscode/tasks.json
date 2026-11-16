@@ -1,0 +1,1 @@
+{"version":"2.0.0","tasks":[{"label":"Executar VidaPet TP1","type":"shell","command":"dotnet run --project src/VidaPet.App/VidaPet.App.csproj","group":"build","problemMatcher":"$msCompile"}]}
